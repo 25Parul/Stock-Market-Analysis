@@ -11,6 +11,7 @@ The project architecture comprises the following components:
 - **Data Ingestion**: Real-time stock market data is ingested using Apache Kafka.
 - **Data Storage**: The ingested data is stored in Amazon S3 (Simple Storage Service).
 - **Data Processing**: AWS Glue and AWS Athena are used for data processing and querying.
+- **Data Visualization**: Processed data can be visualized using various BI tools Quicksight, Tableau, PowerBI.
 
 ## Technologies Used
 
